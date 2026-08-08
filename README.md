@@ -24,6 +24,7 @@
 - 🎛️ [The Four Modes](#️-the-four-modes)
 - 🚀 [Efficiency & Results](#-efficiency--results)
 - 🎬 [The Experience](#-the-experience)
+- 📸 [Screenshots](#-screenshots)
 - 📲 [Root Manager Compatibility](#-root-manager-compatibility)
 - ✅ [Tested Devices](#-tested-devices)
 - 🔄 [Updates](#-updates)
@@ -107,6 +108,24 @@ WarpNet doesn't cook numbers — it gives you the **bench tool to prove them you
   warpnet watch    # 📡 live speed + signal ticker
   warpnet revert   # ♻️ everything stock in one command
   ```
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <b>🎚️ The Action-button menu — everything real, one glance</b><br><br>
+  <img src="screenshots/01-live-panel.jpg" width="340" alt="WarpNet MTK Action menu — live panel"/><br>
+  <sub>Device card · SIM/radio verdict in plain words · engine truth · steering state · Vol±/Power mode picker</sub>
+</p>
+
+<p align="center">
+  <b>⚡ Every session ends with receipts — and an invite</b><br><br>
+  <img src="screenshots/02-termux-outro.jpg" width="560" alt="WarpNet MTK apply receipts + Termux invite"/><br>
+  <sub>Apply receipts · ★ Termux invite · GitHub + Telegram auto-launch</sub>
+</p>
+
+*Shot on Infinix Note 50 Pro (X6870), KernelSU — more device shots from testers land here.* 📱
 
 ---
 
