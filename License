@@ -1,0 +1,75 @@
+WARPNET MTK PUBLIC LICENSE
+(Alchemist Non-Commercial License — ANCL v1.0)
+
+Copyright (c) 2026 Alchemist
+Original Project: https://github.com/Alchemiisst/WarpNet-MTK
+
+====================================================================
+
+1. DEFINITIONS
+"Software" means the WarpNet MTK module, including its code, scripts,
+configuration files, documentation, artwork, and associated assets.
+"Original Project Link" means the official project page/repository URL
+stated above.
+"You" means any person or entity obtaining a copy of the Software.
+
+2. PERMISSIONS (GRANTED, SUBJECT TO SECTION 3)
+You may, free of charge: use, copy, modify, merge, publish, and
+distribute the Software, and create derivative works based upon it.
+
+3. CONDITIONS — ALL OF THE FOLLOWING APPLY
+
+  3.1 FULL CREDIT (Attribution)
+  You must retain the copyright notice, this License text, and a clear,
+  prominent credit naming "Alchemist" as the original author in every
+  copy, derivative work, and distribution — including any public post,
+  forum thread, video description, or listing where the Software or a
+  modification of it is shared.
+
+  3.2 LINK BACK TO ORIGINAL
+  Every copy, modification, or redistribution of the Software must
+  visibly include the Original Project Link in the same location where
+  the download/packaging is offered.
+
+  3.3 NO MONETIZATION OF THIS FREE SOFTWARE
+  You may NOT:
+    a) sell the Software or any derivative of it to anyone;
+    b) require payment, purchase, donation, or subscription to obtain
+       or use the Software or its derivatives;
+    c) add "Support us", donation links, payment links, crypto
+       addresses, or equivalent monetization requests inside the
+       Software, its installer, or its redistribution packaging
+       (the Original Project author may carry such links only on the
+       Original Project itself);
+    d) place the Software behind paywalls, ad-gates, monetized link
+       shorteners, or "premium" download pools;
+    e) charge money for the installation, bundling, hosting, or
+       support of the Software.
+
+  3.4 NON-COMMERCIAL USE ONLY
+  The Software and its derivatives may be used and distributed only
+  for non-commercial purposes. Inclusion in any paid product, paid
+  service, paid ROM/firmware build, commercial bundle, or
+  advertising-funded distribution channel requires explicit prior
+  written permission from the copyright holder (Alchemist).
+
+4. SHARE-ALIKE
+Derivative works must be distributed under this same License, in
+full, unmodified text.
+
+5. TERMINATION
+Any violation of Section 3 automatically terminates your rights under
+this License. Rights may be reinstated only by the copyright holder.
+
+6. NO WARRANTY / LIABILITY LIMIT
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. SEVERABILITY
+If any provision of this License is held unenforceable, the remaining
+provisions remain in full effect.
